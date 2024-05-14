@@ -1,6 +1,7 @@
 # selftraining3
 
 A new Flutter project.
+NOT FINISHED JUST FOR PUSHING 
 
 ## Getting Started
 
